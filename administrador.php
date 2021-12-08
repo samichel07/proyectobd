@@ -103,6 +103,7 @@
                         <ul class="sub-menu children dropdown-menu">
                             <li><i class="fa fa-table"></i><a href="agregar_obra_form.php">Agregar nueva obra</a></li>
                             <li><i class="fa fa-table"></i><a href="busquedaobra.php">Búsqueda de obras</a></li>
+                            <li><i class="fa fa-table"></i><a href="tabla_eliminar_obra.php">Eliminar Obra</a></li>
                         </ul>
                     </li>
                     <li class="menu-item-has-children dropdown">
