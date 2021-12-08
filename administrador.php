@@ -111,6 +111,7 @@
                         <ul class="sub-menu children dropdown-menu">
                             <li><i class="fa fa-table"></i><a href="agregar_papel_obra.php">Agregar nuevo papel</a></li>
                             <li><i class="fa fa-table"></i><a href="busquedapapel.php">Búsqueda de personajes</a></li>
+                            <li><i class="fa fa-table"></i><a href="tabla_eliminar_papel.php">Eliminar Papel</a></li>
                         </ul>
                     </li>
                     <li class="menu-item-has-children dropdown">
